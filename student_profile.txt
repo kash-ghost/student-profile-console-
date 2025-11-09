@@ -1,0 +1,12 @@
+------------------------------------
+      STUDENT PROFILE SYSTEM        
+------------------------------------
+Name:kash
+Roll No:123
+Course:bca
+University:krmu
+City:sohna
+Age:20
+Hobby:gaming
+----------------------------------------
+Welcome to python programming!
